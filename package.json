@@ -23,7 +23,7 @@
 		"@typescript-eslint/parser": "^4.28.3",
 		"autoprefixer": "^10.2.5",
 		"babel-loader": "^8.2.2",
-		"cssnano": "^4.1.10",
+		"cssnano": "^5.1.7",
 		"cssnano-preset-default": "^5.1.5",
 		"dotenv": "^16.0.0",
 		"eslint": "^7.22.0",
@@ -50,6 +50,7 @@
 		"node": ">= 12.17.0"
 	},
 	"dependencies": {
-		"@fontsource/commissioner": "^4.5.0"
+		"@fontsource/commissioner": "^4.5.0",
+		"wrangler": "^2.0.0"
 	}
 }
